@@ -1,0 +1,14 @@
+---
+title: "Harvest Control Rules"
+author: "jcquiroz"
+date: "2019-03-04"
+output: workflowr::wflow_html
+---
+
+## Introduction
+
+```{r}
+plot(c(1,2),c(2,1), type = 'l')
+
+```
+
