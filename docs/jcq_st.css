@@ -7,17 +7,17 @@
 
 /* Add red border around workflowr report button */
 .btn-workflowr-report {
-  border: red 5px solid;
+  border: red 1px solid;
 }
 
 
 /* Add blue border around workflowr past figure version buttons */
 .btn-workflowr-fig {
-  border: blue 5px solid;
+  border: blue 1px solid;
 }
 
 
 /* Add purple border around workflowr session information button */
 .btn-workflowr-sessioninfo {
-  border: purple 5px solid;
+  border: purple 1px solid;
 }
