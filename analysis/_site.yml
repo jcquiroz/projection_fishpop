@@ -1,7 +1,7 @@
-name: "projection_fishpop"
+name: projection_fishpop
 output_dir: ../docs
 navbar:
-  title: "projection_fishpop"
+  title: projection_fishpop
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/jcquiroz/projection_fishpop
 output:
   workflowr::wflow_html:
     toc: yes
