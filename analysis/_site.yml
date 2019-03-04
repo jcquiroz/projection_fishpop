@@ -19,3 +19,4 @@ output:
     toc_float: yes
     theme: yeti
     highlight: zenburn
+    css: jcq_st.css
